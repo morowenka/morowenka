@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-
-- 🌱 I’m currently learning ...
 - 🔭 I’m currently working as Data Analyst at Polymatica.
-- 🤔 I’m looking for help with ...
-- 💬 My resume stored [here](https://github.com/morowenka/morowenka/blob/main/Mark%20Basov%20-%20Data%20Scientist.pdf)
-- 📫 My Telegram: @morowenka
-- ⚡ Fun fact: ...
+- 💬 My resume is stored [here](https://github.com/morowenka/morowenka/blob/main/Mark%20Basov%20-%20Data%20Scientist.pdf)
+- 📫 My Telegram: [@morowenka](https://t.me/morowenka) Feel free to chat me in Russian or English.
+
+### Good day!
